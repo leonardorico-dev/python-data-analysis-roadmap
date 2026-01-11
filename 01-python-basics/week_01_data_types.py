@@ -8,6 +8,7 @@ This script covers:
 - Type annotations
 - Type casting
 - Basic built-in functions
+- Built-in Data Structures
 - Simple practice exercises
 """
 
@@ -172,3 +173,4 @@ coordinates = (10, 30)
 print("New tuple:", coordinates)
 print("New tuple ID:", id(coordinates))
 # A new object is created because tuples are immutable
+
